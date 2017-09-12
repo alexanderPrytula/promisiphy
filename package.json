@@ -1,0 +1,23 @@
+{
+  "name": "promisiphy",
+  "version": "0.0.1",
+  "description": "Promisifier to handle thunks in es6 style",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "promise",
+    "es6",
+    "callback",
+    "thunk"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Alexander Prytula",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
