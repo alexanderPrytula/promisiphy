@@ -1,6 +1,6 @@
 {
   "name": "promisiphy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Promisifier to handle thunks in es6 style",
   "main": "index.js",
   "scripts": {
