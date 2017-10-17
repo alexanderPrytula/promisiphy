@@ -1,6 +1,6 @@
 {
   "name": "promisiphy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Promisifier to handle thunks in es6 style",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,8 @@
   "author": "Alexander Prytula",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^3.5.0"
+    "mocha": "^3.5.0",
+    "joi": "^6.0.0",
+    "winston": "^2.0.0"
   }
 }
